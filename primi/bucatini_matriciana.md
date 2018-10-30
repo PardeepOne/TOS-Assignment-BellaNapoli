@@ -1,0 +1,9 @@
+Numero matricola: 1143264
+
+Ingredienti:
+ -BUCATINI 400 gr
+ -GUANCIALE DI MAIALE 200 gr
+ -VINO BIANCO SECCO 1 bicchiere
+ -SALSA DI POMODORO PRONTA 400 gr
+ -PECORINO ROMANO 100 gr
+ -SALE q.b.
